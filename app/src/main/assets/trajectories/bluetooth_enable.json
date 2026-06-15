@@ -1,0 +1,191 @@
+{
+    "task": "turn on bluetooth",
+    "app": "com.android.systemui",
+    "steps": [
+        {
+            "timestamp": 5003,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": true,
+                        "enabled": true,
+                        "className": "android.widget.FrameLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": null,
+                                "contentDescription": null,
+                                "clickable": true,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,845][1080,1588]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": null,
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.FrameLayout",
+                                        "bounds": "[40,885][1040,1548]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "android:id/content",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[40,885][1040,1548]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": "com.android.systemui:id/root",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.ViewGroup",
+                                                        "bounds": "[40,885][1040,1548]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "7",
+                                                                "text": "Bluetooth",
+                                                                "resourceId": "com.android.systemui:id/bluetooth_tile_dialog_title",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.TextView",
+                                                                "bounds": "[405,885][675,1025]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "8",
+                                                                "text": "Bluetooth is off",
+                                                                "resourceId": "com.android.systemui:id/bluetooth_tile_dialog_subtitle",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.TextView",
+                                                                "bounds": "[415,1035][665,1082]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "9",
+                                                                "text": null,
+                                                                "resourceId": "com.android.systemui:id/bluetooth_tile_dialog_progress_background",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.view.View",
+                                                                "bounds": "[350,1122][730,1132]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "10",
+                                                                "text": null,
+                                                                "resourceId": "com.android.systemui:id/scroll_view",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.ScrollView",
+                                                                "bounds": "[40,1185][1040,1548]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "11",
+                                                                        "text": null,
+                                                                        "resourceId": "com.android.systemui:id/scroll_layout",
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.view.ViewGroup",
+                                                                        "bounds": "[40,1185][1040,1548]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "12",
+                                                                                "text": "Use Bluetooth",
+                                                                                "resourceId": "com.android.systemui:id/bluetooth_toggle_title",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.TextView",
+                                                                                "bounds": "[40,1185][800,1355]",
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "13",
+                                                                                "text": null,
+                                                                                "resourceId": "com.android.systemui:id/bluetooth_toggle",
+                                                                                "contentDescription": "Use Bluetooth",
+                                                                                "clickable": true,
+                                                                                "enabled": false,
+                                                                                "className": "android.widget.Switch",
+                                                                                "bounds": "[800,1185][1040,1355]",
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "14",
+                                                                                "text": "Done",
+                                                                                "resourceId": "com.android.systemui:id/done_button",
+                                                                                "contentDescription": null,
+                                                                                "clickable": true,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.Button",
+                                                                                "bounds": "[815,1383][980,1503]",
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "click",
+                "resourceId": "com.android.systemui:id/bluetooth_toggle",
+                "contentDescription": "Use Bluetooth",
+                "text": null,
+                "path": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    3,
+                    0,
+                    1
+                ],
+                "className": "android.widget.Switch",
+                "value": null,
+                "direction": null
+            },
+            "packageName": "com.android.systemui"
+        }
+    ]
+}

@@ -23,10 +23,11 @@ Android app that records and replays user interactions via the accessibility tre
    cd android-recorder
    ```
 
-2. Create `local.properties` with your Android SDK path (or copy the example):
+2. Create `local.properties` with your Android SDK path and API endpoint (or copy the example):
    ```bash
    cp local.properties.example local.properties
    # Edit sdk.dir to point to your SDK
+   # Edit api.base.url to point to your skill prediction API (must end with /)
    ```
 
 3. Open the project in Android Studio, or build from the command line:

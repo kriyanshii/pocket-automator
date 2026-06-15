@@ -1,0 +1,1632 @@
+{
+    "task": "search Ghibli food on youtube",
+    "app": "com.google.android.youtube",
+    "steps": [
+        {
+            "timestamp": 3032,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": "android:id/content",
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.motorola.launcher3:id/launcher",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.FrameLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "com.motorola.launcher3:id/drag_layer",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/background_scrim",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "7",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/scrim_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "8",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/apps_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.RelativeLayout",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "9",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/search_results_list_view",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.GridView",
+                                                                "bounds": "[0,207][1080,921]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "10",
+                                                                        "text": "YouTube",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "YouTube",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[20,282][280,597]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "11",
+                                                                        "text": null,
+                                                                        "resourceId": "com.motorola.launcher3:id/private_space_divider",
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.ImageView",
+                                                                        "bounds": "[20,597][1060,760]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "12",
+                                                                        "text": "SEARCH FOR MORE APPS",
+                                                                        "resourceId": "com.motorola.launcher3:id/search_market_text",
+                                                                        "contentDescription": null,
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[20,760][1060,861]",
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "nodeId": "13",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/all_apps_header",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.LinearLayout",
+                                                                "bounds": "[0,207][1080,705]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "14",
+                                                                "text": "You",
+                                                                "resourceId": "com.motorola.launcher3:id/search_container_all_apps",
+                                                                "contentDescription": null,
+                                                                "clickable": true,
+                                                                "enabled": true,
+                                                                "className": "android.widget.EditText",
+                                                                "bounds": "[40,154][1040,284]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "15",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/fast_scroller_popup",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.TextView",
+                                                                "bounds": "[844,245][1032,400]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "16",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/clear",
+                                                                "contentDescription": "Clear all the input",
+                                                                "clickable": true,
+                                                                "enabled": true,
+                                                                "className": "android.widget.ImageView",
+                                                                "bounds": "[910,154][1040,284]",
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "nodeId": "17",
+                                                        "text": null,
+                                                        "resourceId": null,
+                                                        "contentDescription": "Home",
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,94][1080,2340]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "18",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/overview_actions_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.FrameLayout",
+                                                        "bounds": "[0,1868][1080,2400]",
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "set_text",
+                "resourceId": "com.motorola.launcher3:id/search_container_all_apps",
+                "contentDescription": null,
+                "text": null,
+                "path": null,
+                "className": "android.widget.EditText",
+                "value": "You",
+                "direction": null
+            },
+            "packageName": "com.motorola.launcher3"
+        },
+        {
+            "timestamp": 4406,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": "android:id/content",
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.motorola.launcher3:id/launcher",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.FrameLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "com.motorola.launcher3:id/drag_layer",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/background_scrim",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "7",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/scrim_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "8",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/apps_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.RelativeLayout",
+                                                        "bounds": "[12,26][1068,2374]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "9",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/search_results_list_view",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.GridView",
+                                                                "bounds": "[5,217][1075,924]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "10",
+                                                                        "text": "YouTube",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "YouTube",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[25,291][283,603]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "11",
+                                                                        "text": null,
+                                                                        "resourceId": "com.motorola.launcher3:id/private_space_divider",
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.ImageView",
+                                                                        "bounds": "[33,612][1047,771]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "12",
+                                                                        "text": "SEARCH FOR MORE APPS",
+                                                                        "resourceId": "com.motorola.launcher3:id/search_market_text",
+                                                                        "contentDescription": null,
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[34,772][1046,870]",
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "nodeId": "13",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/all_apps_header",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.LinearLayout",
+                                                                "bounds": "[15,234][1065,718]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "14",
+                                                                "text": "You",
+                                                                "resourceId": "com.motorola.launcher3:id/search_container_all_apps",
+                                                                "contentDescription": null,
+                                                                "clickable": true,
+                                                                "enabled": true,
+                                                                "className": "android.widget.EditText",
+                                                                "bounds": "[54,182][1026,309]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "15",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/fast_scroller_popup",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.TextView",
+                                                                "bounds": "[836,272][1018,422]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "16",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/clear",
+                                                                "contentDescription": "Clear all the input",
+                                                                "clickable": true,
+                                                                "enabled": true,
+                                                                "className": "android.widget.ImageView",
+                                                                "bounds": "[900,183][1026,309]",
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "nodeId": "17",
+                                                        "text": null,
+                                                        "resourceId": null,
+                                                        "contentDescription": "Home",
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,94][1080,2340]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "18",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/overview_actions_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.FrameLayout",
+                                                        "bounds": "[0,1868][1080,2400]",
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "nodeId": "19",
+                                                "text": null,
+                                                "resourceId": null,
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[18,63][974,2182]",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "click",
+                "resourceId": "com.motorola.launcher3:id/icon",
+                "contentDescription": "YouTube",
+                "text": "YouTube",
+                "path": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ],
+                "className": "android.widget.TextView",
+                "value": null,
+                "direction": null
+            },
+            "packageName": "com.motorola.launcher3"
+        },
+        {
+            "timestamp": 8101,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": null,
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.google.android.youtube:id/action_bar_root",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.LinearLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "android:id/content",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": "com.google.android.youtube:id/more_drawer_container",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "androidx.drawerlayout.widget.DrawerLayout",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "7",
+                                                                "text": null,
+                                                                "resourceId": "com.google.android.youtube:id/slim_status_bar_player_container",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.FrameLayout",
+                                                                "bounds": "[0,0][1080,2400]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "8",
+                                                                        "text": null,
+                                                                        "resourceId": "com.google.android.youtube:id/navigation_bar_divider_frame",
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.view.ViewGroup",
+                                                                        "bounds": "[0,0][1080,1475]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "9",
+                                                                                "text": null,
+                                                                                "resourceId": "com.google.android.youtube:id/global_slim_status_bar_container",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.FrameLayout",
+                                                                                "bounds": "[0,0][1080,1475]",
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "10",
+                                                                                "text": null,
+                                                                                "resourceId": "com.google.android.youtube:id/accessibility_layer_container",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.FrameLayout",
+                                                                                "bounds": "[0,0][1080,1475]",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "nodeId": "11",
+                                                                                        "text": null,
+                                                                                        "resourceId": "com.google.android.youtube:id/next_gen_watch_container_layout",
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "android.view.ViewGroup",
+                                                                                        "bounds": "[0,0][1080,1475]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "12",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.google.android.youtube:id/watch_while_layout_coordinator_layout",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.view.ViewGroup",
+                                                                                                "bounds": "[0,0][1080,1475]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "13",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": "com.google.android.youtube:id/fab_container",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                        "bounds": "[0,0][1080,1475]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "14",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.google.android.youtube:id/fab",
+                                                                                                                "contentDescription": "Voice search",
+                                                                                                                "clickable": true,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.ImageView",
+                                                                                                                "bounds": "[920,1315][1060,1455]",
+                                                                                                                "children": []
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "nodeId": "15",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": "com.google.android.youtube:id/pane_fragment_container",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                        "bounds": "[0,0][1080,1475]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "16",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.google.android.youtube:id/browse_fragment_layout_coordinator_layout",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.ScrollView",
+                                                                                                                "bounds": "[0,94][1080,1415]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "17",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.google.android.youtube:id/appbar_layout",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.LinearLayout",
+                                                                                                                        "bounds": "[0,94][1080,214]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "18",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.youtube:id/toolbar_container",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[0,94][1080,214]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "19",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.youtube:id/toolbar",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                                        "bounds": "[0,94][1080,214]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "20",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.google.android.youtube:id/pane_fragment_contents",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                        "bounds": "[0,214][1080,1415]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "21",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.youtube:id/search_layout",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[0,214][1080,1415]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "22",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.youtube:id/results_recycler_view",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.support.v7.widget.RecyclerView",
+                                                                                                                                        "bounds": "[0,214][1080,694]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "23",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.FrameLayout",
+                                                                        "bounds": "[0,0][1080,94]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "24",
+                                                                                "text": null,
+                                                                                "resourceId": "com.google.android.youtube:id/global_status_bar_view",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.View",
+                                                                                "bounds": "[0,0][1080,94]",
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "click",
+                "resourceId": "com.google.android.youtube:id/menu_item_view",
+                "contentDescription": "Search",
+                "text": null,
+                "path": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    1,
+                    1,
+                    0,
+                    0
+                ],
+                "className": "android.widget.ImageView",
+                "value": null,
+                "direction": null
+            },
+            "packageName": "com.google.android.youtube"
+        },
+        {
+            "timestamp": 14923,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": null,
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.google.android.youtube:id/action_bar_root",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.LinearLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "android:id/content",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": "com.google.android.youtube:id/more_drawer_container",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "androidx.drawerlayout.widget.DrawerLayout",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "7",
+                                                                "text": null,
+                                                                "resourceId": "com.google.android.youtube:id/slim_status_bar_player_container",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.FrameLayout",
+                                                                "bounds": "[0,0][1080,2400]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "8",
+                                                                        "text": null,
+                                                                        "resourceId": "com.google.android.youtube:id/navigation_bar_divider_frame",
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.view.ViewGroup",
+                                                                        "bounds": "[0,0][1080,1475]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "9",
+                                                                                "text": null,
+                                                                                "resourceId": "com.google.android.youtube:id/global_slim_status_bar_container",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.FrameLayout",
+                                                                                "bounds": "[0,0][1080,1475]",
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "10",
+                                                                                "text": null,
+                                                                                "resourceId": "com.google.android.youtube:id/accessibility_layer_container",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.FrameLayout",
+                                                                                "bounds": "[0,0][1080,1475]",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "nodeId": "11",
+                                                                                        "text": null,
+                                                                                        "resourceId": "com.google.android.youtube:id/next_gen_watch_container_layout",
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "android.view.ViewGroup",
+                                                                                        "bounds": "[0,0][1080,1475]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "12",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.google.android.youtube:id/watch_while_layout_coordinator_layout",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.view.ViewGroup",
+                                                                                                "bounds": "[0,0][1080,1475]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "13",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": "com.google.android.youtube:id/fab_container",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                        "bounds": "[0,0][1080,1475]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "14",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.google.android.youtube:id/fab",
+                                                                                                                "contentDescription": "Voice search",
+                                                                                                                "clickable": true,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.ImageView",
+                                                                                                                "bounds": "[920,1315][1060,1455]",
+                                                                                                                "children": []
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "nodeId": "15",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": "com.google.android.youtube:id/pane_fragment_container",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                        "bounds": "[0,0][1080,1475]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "16",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.google.android.youtube:id/browse_fragment_layout_coordinator_layout",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.ScrollView",
+                                                                                                                "bounds": "[0,94][1080,1415]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "17",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.google.android.youtube:id/appbar_layout",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.LinearLayout",
+                                                                                                                        "bounds": "[0,94][1080,214]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "18",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.youtube:id/toolbar_container",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[0,94][1080,214]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "19",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.youtube:id/toolbar",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                                        "bounds": "[0,94][1080,214]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "20",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.google.android.youtube:id/pane_fragment_contents",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                        "bounds": "[0,214][1080,1415]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "21",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.youtube:id/search_layout",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[0,214][1080,1415]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "22",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.youtube:id/results_recycler_view",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.support.v7.widget.RecyclerView",
+                                                                                                                                        "bounds": "[0,214][1080,1414]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "23",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.FrameLayout",
+                                                                        "bounds": "[0,0][1080,94]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "24",
+                                                                                "text": null,
+                                                                                "resourceId": "com.google.android.youtube:id/global_status_bar_view",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.View",
+                                                                                "bounds": "[0,0][1080,94]",
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "set_text",
+                "resourceId": "com.google.android.youtube:id/search_edit_text",
+                "contentDescription": null,
+                "text": null,
+                "path": null,
+                "className": "android.widget.EditText",
+                "value": "ghibli food",
+                "direction": null
+            },
+            "packageName": "com.google.android.youtube"
+        },
+        {
+            "timestamp": 22620,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": null,
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.google.android.youtube:id/action_bar_root",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.LinearLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "android:id/content",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": "com.google.android.youtube:id/more_drawer_container",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "androidx.drawerlayout.widget.DrawerLayout",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "7",
+                                                                "text": null,
+                                                                "resourceId": "com.google.android.youtube:id/slim_status_bar_player_container",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.FrameLayout",
+                                                                "bounds": "[0,0][1080,2400]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "8",
+                                                                        "text": null,
+                                                                        "resourceId": "com.google.android.youtube:id/navigation_bar_divider_frame",
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.view.ViewGroup",
+                                                                        "bounds": "[0,0][1080,2340]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "9",
+                                                                                "text": null,
+                                                                                "resourceId": "com.google.android.youtube:id/global_slim_status_bar_container",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.FrameLayout",
+                                                                                "bounds": "[0,0][1080,2340]",
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "10",
+                                                                                "text": null,
+                                                                                "resourceId": "com.google.android.youtube:id/accessibility_layer_container",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.FrameLayout",
+                                                                                "bounds": "[0,0][1080,2340]",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "nodeId": "11",
+                                                                                        "text": null,
+                                                                                        "resourceId": "com.google.android.youtube:id/next_gen_watch_container_layout",
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "android.view.ViewGroup",
+                                                                                        "bounds": "[0,0][1080,2340]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "12",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.google.android.youtube:id/watch_while_layout_coordinator_layout",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.view.ViewGroup",
+                                                                                                "bounds": "[0,0][1080,2340]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "13",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": "com.google.android.youtube:id/fab_container",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                        "bounds": "[0,0][1080,2340]",
+                                                                                                        "children": []
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "nodeId": "14",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": "com.google.android.youtube:id/pane_fragment_container",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                        "bounds": "[0,0][1080,2340]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "15",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.google.android.youtube:id/browse_fragment_layout_coordinator_layout",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.ScrollView",
+                                                                                                                "bounds": "[0,94][1080,2220]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "16",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.google.android.youtube:id/appbar_layout",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.LinearLayout",
+                                                                                                                        "bounds": "[0,94][1080,214]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "17",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.youtube:id/toolbar_container",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[0,94][1080,214]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "18",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.youtube:id/toolbar",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                                        "bounds": "[0,94][1080,214]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "19",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.google.android.youtube:id/pane_fragment_contents",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                        "bounds": "[0,214][1080,2220]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "20",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.youtube:id/loading_layout",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[0,214][1080,2220]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "21",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.youtube:id/load_progress",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.ProgressBar",
+                                                                                                                                        "bounds": "[470,1147][610,1287]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    },
+                                                                                    {
+                                                                                        "nodeId": "22",
+                                                                                        "text": null,
+                                                                                        "resourceId": "com.google.android.youtube:id/bottom_bar_container",
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "android.widget.LinearLayout",
+                                                                                        "bounds": "[0,2220][1080,2340]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "23",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.google.android.youtube:id/pivot_bar",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.widget.HorizontalScrollView",
+                                                                                                "bounds": "[0,2220][1080,2340]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "24",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": null,
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.LinearLayout",
+                                                                                                        "bounds": "[0,2220][1080,2340]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "25",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": null,
+                                                                                                                "contentDescription": "Home",
+                                                                                                                "clickable": true,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.Button",
+                                                                                                                "bounds": "[0,2220][216,2340]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "26",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.google.android.youtube:id/thumbnail_layout",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                        "bounds": "[78,2233][138,2293]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "27",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.youtube:id/image",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.ImageView",
+                                                                                                                                "bounds": "[78,2233][138,2293]",
+                                                                                                                                "children": []
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "28",
+                                                                                                                        "text": "Home",
+                                                                                                                        "resourceId": "com.google.android.youtube:id/text",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.TextView",
+                                                                                                                        "bounds": "[70,2298][147,2328]",
+                                                                                                                        "children": []
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "nodeId": "29",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": null,
+                                                                                                                "contentDescription": "Shorts",
+                                                                                                                "clickable": true,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.Button",
+                                                                                                                "bounds": "[216,2220][432,2340]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "30",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.google.android.youtube:id/thumbnail_layout",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                        "bounds": "[294,2233][354,2293]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "31",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.youtube:id/image",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.ImageView",
+                                                                                                                                "bounds": "[294,2233][354,2293]",
+                                                                                                                                "children": []
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "32",
+                                                                                                                        "text": "Shorts",
+                                                                                                                        "resourceId": "com.google.android.youtube:id/text",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.TextView",
+                                                                                                                        "bounds": "[284,2298][365,2328]",
+                                                                                                                        "children": []
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "nodeId": "33",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": null,
+                                                                                                                "contentDescription": "Create",
+                                                                                                                "clickable": true,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.Button",
+                                                                                                                "bounds": "[432,2220][648,2340]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "34",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.google.android.youtube:id/image",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.ImageView",
+                                                                                                                        "bounds": "[495,2237][585,2327]",
+                                                                                                                        "children": []
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "nodeId": "35",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": null,
+                                                                                                                "contentDescription": "Subscriptions: New content is available",
+                                                                                                                "clickable": true,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.Button",
+                                                                                                                "bounds": "[648,2220][864,2340]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "36",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.google.android.youtube:id/thumbnail_layout",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                        "bounds": "[726,2233][786,2293]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "37",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.youtube:id/image",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.ImageView",
+                                                                                                                                "bounds": "[726,2233][786,2293]",
+                                                                                                                                "children": []
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "38",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.google.android.youtube:id/new_content_dot",
+                                                                                                                        "contentDescription": "New content available",
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.view.View",
+                                                                                                                        "bounds": "[761,2228][791,2258]",
+                                                                                                                        "children": []
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "39",
+                                                                                                                        "text": "Subscriptions",
+                                                                                                                        "resourceId": "com.google.android.youtube:id/text",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.TextView",
+                                                                                                                        "bounds": "[675,2298][838,2328]",
+                                                                                                                        "children": []
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "nodeId": "40",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": null,
+                                                                                                                "contentDescription": "You",
+                                                                                                                "clickable": true,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.Button",
+                                                                                                                "bounds": "[864,2220][1080,2340]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "41",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.google.android.youtube:id/thumbnail_layout",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                        "bounds": "[942,2233][1002,2293]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "42",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.youtube:id/pivot_bar_thumbnail",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.ImageView",
+                                                                                                                                "bounds": "[942,2233][1002,2293]",
+                                                                                                                                "children": []
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "43",
+                                                                                                                        "text": "You",
+                                                                                                                        "resourceId": "com.google.android.youtube:id/text",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.TextView",
+                                                                                                                        "bounds": "[947,2298][998,2328]",
+                                                                                                                        "children": []
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "44",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.FrameLayout",
+                                                                        "bounds": "[0,0][1080,94]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "45",
+                                                                                "text": null,
+                                                                                "resourceId": "com.google.android.youtube:id/global_status_bar_view",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.View",
+                                                                                "bounds": "[0,0][1080,94]",
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "click",
+                "resourceId": null,
+                "contentDescription": "Playlist - STUDIO GHIBLI FOOD COMPILATION - Savoring Anime: A Culinary Compilation - 9 videos",
+                "text": null,
+                "path": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    1,
+                    0,
+                    1,
+                    1,
+                    0,
+                    0,
+                    2,
+                    0
+                ],
+                "className": "android.widget.Button",
+                "value": null,
+                "direction": null
+            },
+            "packageName": "com.google.android.youtube"
+        }
+    ]
+}

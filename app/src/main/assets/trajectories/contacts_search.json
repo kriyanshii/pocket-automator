@@ -1,0 +1,900 @@
+{
+    "task": "search parag shah in contacts",
+    "app": "com.google.android.contacts",
+    "steps": [
+        {
+            "timestamp": 5514,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": "android:id/content",
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.motorola.launcher3:id/launcher",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.FrameLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "com.motorola.launcher3:id/drag_layer",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/background_scrim",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "7",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/scrim_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "8",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/apps_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.RelativeLayout",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "9",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/search_results_list_view",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.GridView",
+                                                                "bounds": "[0,207][1080,921]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "10",
+                                                                        "text": "Contacts",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Contacts",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[20,282][280,597]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "11",
+                                                                        "text": "Smart Connect",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Smart Connect",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[280,282][540,597]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "12",
+                                                                        "text": null,
+                                                                        "resourceId": "com.motorola.launcher3:id/private_space_divider",
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.ImageView",
+                                                                        "bounds": "[20,597][1060,760]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "13",
+                                                                        "text": "SEARCH FOR MORE APPS",
+                                                                        "resourceId": "com.motorola.launcher3:id/search_market_text",
+                                                                        "contentDescription": null,
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[20,760][1060,861]",
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "nodeId": "14",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/all_apps_header",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.LinearLayout",
+                                                                "bounds": "[0,207][1080,705]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "15",
+                                                                "text": "Con",
+                                                                "resourceId": "com.motorola.launcher3:id/search_container_all_apps",
+                                                                "contentDescription": null,
+                                                                "clickable": true,
+                                                                "enabled": true,
+                                                                "className": "android.widget.EditText",
+                                                                "bounds": "[40,154][1040,284]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "16",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/fast_scroller_popup",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.TextView",
+                                                                "bounds": "[844,245][1032,400]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "17",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/clear",
+                                                                "contentDescription": "Clear all the input",
+                                                                "clickable": true,
+                                                                "enabled": true,
+                                                                "className": "android.widget.ImageView",
+                                                                "bounds": "[910,154][1040,284]",
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "nodeId": "18",
+                                                        "text": null,
+                                                        "resourceId": null,
+                                                        "contentDescription": "Home",
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,94][1080,2340]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "19",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/overview_actions_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.FrameLayout",
+                                                        "bounds": "[0,1868][1080,2400]",
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "set_text",
+                "resourceId": "com.motorola.launcher3:id/search_container_all_apps",
+                "contentDescription": null,
+                "text": null,
+                "path": null,
+                "className": "android.widget.EditText",
+                "value": "Con",
+                "direction": null
+            },
+            "packageName": "com.motorola.launcher3"
+        },
+        {
+            "timestamp": 8362,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": null,
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.google.android.contacts:id/action_bar_root",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.FrameLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "android:id/content",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": null,
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.LinearLayout",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "7",
+                                                                "text": null,
+                                                                "resourceId": null,
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.LinearLayout",
+                                                                "bounds": "[0,0][1080,2400]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "8",
+                                                                        "text": null,
+                                                                        "resourceId": "com.google.android.contacts:id/root",
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.view.ViewGroup",
+                                                                        "bounds": "[0,0][1080,2400]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "9",
+                                                                                "text": null,
+                                                                                "resourceId": "com.google.android.contacts:id/contacts_list_container",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.FrameLayout",
+                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "nodeId": "10",
+                                                                                        "text": null,
+                                                                                        "resourceId": "com.google.android.contacts:id/nav_host_container",
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "android.widget.FrameLayout",
+                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "11",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.google.android.contacts:id/nav_host_container",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "12",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": null,
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "androidx.slidingpanelayout.widget.SlidingPaneLayout",
+                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "13",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.google.android.contacts:id/contact_list_fragment",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "14",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.google.android.contacts:id/contact_list",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "15",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.contacts:id/open_search_view",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "16",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.contacts:id/open_search_view_scrim",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.view.View",
+                                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                                        "children": []
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "17",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.contacts:id/open_search_view_root",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "18",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.contacts:id/app_bar_layout",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.LinearLayout",
+                                                                                                                                "bounds": "[0,0][1080,414]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "19",
+                                                                                                                                        "text": "Search contacts",
+                                                                                                                                        "resourceId": "com.google.android.contacts:id/open_search_bar",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": true,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.EditText",
+                                                                                                                                        "bounds": "[40,114][1040,234]",
+                                                                                                                                        "children": []
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "20",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.contacts:id/app_bar_compose_view",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "androidx.compose.ui.platform.ComposeView",
+                                                                                                                                        "bounds": "[0,254][1080,414]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "21",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.contacts:id/contact_list_compose_view",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "androidx.compose.ui.platform.ComposeView",
+                                                                                                                                "bounds": "[0,414][1080,2400]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "22",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": null,
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.view.View",
+                                                                                                                                        "bounds": "[0,414][1080,2720]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "23",
+                                                                                "text": null,
+                                                                                "resourceId": "com.google.android.contacts:id/floating_action_button",
+                                                                                "contentDescription": "Create contact",
+                                                                                "clickable": true,
+                                                                                "enabled": true,
+                                                                                "className": "com.google.android.material.floatingactionbutton.FloatingActionButton",
+                                                                                "bounds": "[885,1798][1015,1928]",
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "24",
+                                                                                "text": null,
+                                                                                "resourceId": "com.google.android.contacts:id/bottom_sheet",
+                                                                                "contentDescription": null,
+                                                                                "clickable": true,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.FrameLayout",
+                                                                                "bounds": "[0,1973][1080,2400]",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "nodeId": "25",
+                                                                                        "text": null,
+                                                                                        "resourceId": null,
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "android.widget.ScrollView",
+                                                                                        "bounds": "[60,2033][1020,2340]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "26",
+                                                                                                "text": null,
+                                                                                                "resourceId": null,
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.view.ViewGroup",
+                                                                                                "bounds": "[60,2033][1020,2340]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "27",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": "com.google.android.contacts:id/icon",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.ImageView",
+                                                                                                        "bounds": "[60,2033][210,2183]",
+                                                                                                        "children": []
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "nodeId": "28",
+                                                                                                        "text": "Fix up your contacts",
+                                                                                                        "resourceId": "com.google.android.contacts:id/title_text",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.TextView",
+                                                                                                        "bounds": "[250,2033][749,2113]",
+                                                                                                        "children": []
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "nodeId": "29",
+                                                                                                        "text": "Get rid of duplicates to keep your contacts useful",
+                                                                                                        "resourceId": "com.google.android.contacts:id/body_text",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.TextView",
+                                                                                                        "bounds": "[250,2113][1020,2216]",
+                                                                                                        "children": []
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "nodeId": "30",
+                                                                                                        "text": "Not now",
+                                                                                                        "resourceId": "com.google.android.contacts:id/dismiss_button",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": true,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.Button",
+                                                                                                        "bounds": "[512,2216][732,2340]",
+                                                                                                        "children": []
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "nodeId": "31",
+                                                                                                        "text": "Get started",
+                                                                                                        "resourceId": "com.google.android.contacts:id/accept_button",
+                                                                                                        "contentDescription": "Get started",
+                                                                                                        "clickable": true,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.Button",
+                                                                                                        "bounds": "[752,2216][1020,2340]",
+                                                                                                        "children": []
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "click",
+                "resourceId": "com.google.android.contacts:id/open_search_bar",
+                "contentDescription": null,
+                "text": "Search contacts",
+                "path": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0
+                ],
+                "className": "android.widget.EditText",
+                "value": null,
+                "direction": null
+            },
+            "packageName": "com.google.android.contacts"
+        },
+        {
+            "timestamp": 10733,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": null,
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.google.android.contacts:id/action_bar_root",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.FrameLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "android:id/content",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": null,
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.LinearLayout",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "7",
+                                                                "text": null,
+                                                                "resourceId": null,
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.LinearLayout",
+                                                                "bounds": "[0,0][1080,2400]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "8",
+                                                                        "text": null,
+                                                                        "resourceId": "com.google.android.contacts:id/root",
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.view.ViewGroup",
+                                                                        "bounds": "[0,0][1080,2400]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "9",
+                                                                                "text": null,
+                                                                                "resourceId": "com.google.android.contacts:id/contacts_list_container",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.FrameLayout",
+                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "nodeId": "10",
+                                                                                        "text": null,
+                                                                                        "resourceId": "com.google.android.contacts:id/nav_host_container",
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "android.widget.FrameLayout",
+                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "11",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.google.android.contacts:id/nav_host_container",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "12",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": null,
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "androidx.slidingpanelayout.widget.SlidingPaneLayout",
+                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "13",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.google.android.contacts:id/contact_list_fragment",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "14",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.google.android.contacts:id/contact_list",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "15",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.contacts:id/open_search_view",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "16",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.contacts:id/open_search_view_scrim",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.view.View",
+                                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                                        "children": []
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "17",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.contacts:id/open_search_view_root",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "18",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.contacts:id/app_bar_layout",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.LinearLayout",
+                                                                                                                                "bounds": "[0,0][1080,414]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "19",
+                                                                                                                                        "text": "Search contacts",
+                                                                                                                                        "resourceId": "com.google.android.contacts:id/open_search_bar",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": true,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.EditText",
+                                                                                                                                        "bounds": "[40,114][1040,234]",
+                                                                                                                                        "children": []
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "20",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.contacts:id/app_bar_compose_view",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "androidx.compose.ui.platform.ComposeView",
+                                                                                                                                        "bounds": "[0,254][1080,414]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "21",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.google.android.contacts:id/contact_list_compose_view",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "androidx.compose.ui.platform.ComposeView",
+                                                                                                                                "bounds": "[0,414][1080,2400]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "22",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": null,
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.view.View",
+                                                                                                                                        "bounds": "[0,414][1080,2720]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "set_text",
+                "resourceId": "com.google.android.contacts:id/open_search_view_edit_text",
+                "contentDescription": null,
+                "text": null,
+                "path": null,
+                "className": "android.widget.EditText",
+                "value": "parag shah",
+                "direction": null
+            },
+            "packageName": "com.google.android.contacts"
+        }
+    ]
+}

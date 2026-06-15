@@ -1,0 +1,1248 @@
+{
+    "task": "pause music on Spotify",
+    "app": "com.spotify.music",
+    "steps": [
+        {
+            "timestamp": 2907,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": "android:id/content",
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.motorola.launcher3:id/launcher",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.FrameLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "com.motorola.launcher3:id/drag_layer",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/background_scrim",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "7",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/scrim_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "8",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/apps_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.RelativeLayout",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "9",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/apps_list_view",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.GridView",
+                                                                "bounds": "[0,207][1080,2400]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "10",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": "Folder: GOOGLE, 4 or more items",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.FrameLayout",
+                                                                        "bounds": "[20,690][280,1005]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "11",
+                                                                                "text": "GOOGLE",
+                                                                                "resourceId": "com.motorola.launcher3:id/folder_icon_name",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.TextView",
+                                                                                "bounds": "[21,914][280,1005]",
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "12",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": "Folder: Moto, 4 or more items",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.FrameLayout",
+                                                                        "bounds": "[280,690][540,1005]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "13",
+                                                                                "text": "Moto",
+                                                                                "resourceId": "com.motorola.launcher3:id/folder_icon_name",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.TextView",
+                                                                                "bounds": "[283,917][540,1007]",
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "14",
+                                                                        "text": "Brave",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Brave",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[540,690][800,1005]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "15",
+                                                                        "text": "Calculator",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Calculator",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[800,690][1060,1005]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "16",
+                                                                        "text": "Camera",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Camera",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[20,1005][280,1320]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "17",
+                                                                        "text": "Clock",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Clock",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[280,1005][540,1320]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "18",
+                                                                        "text": "Contacts",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Contacts",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[540,1005][800,1320]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "19",
+                                                                        "text": "Digital Wellbeing",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Digital Wellbeing",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[800,1005][1060,1320]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "20",
+                                                                        "text": "District",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "District",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[20,1320][280,1635]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "21",
+                                                                        "text": "Google",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Google",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[280,1320][540,1635]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "22",
+                                                                        "text": "Groww",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Groww",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[540,1320][800,1635]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "23",
+                                                                        "text": "IDFC FIRST Bank",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "IDFC FIRST Bank",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[800,1320][1060,1635]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "24",
+                                                                        "text": "LinkedIn",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "LinkedIn",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[20,1635][280,1950]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "25",
+                                                                        "text": "Messages",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Messages",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[280,1635][540,1950]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "26",
+                                                                        "text": "Phone",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Phone",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[540,1635][800,1950]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "27",
+                                                                        "text": "Play Store",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Play Store",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[800,1635][1060,1950]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "28",
+                                                                        "text": "Pocket Automator",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Pocket Automator has 1 notification",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[20,1950][280,2265]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "29",
+                                                                        "text": "Prime Video",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Prime Video",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[280,1950][540,2265]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "30",
+                                                                        "text": "Recorder",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Recorder",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[540,1950][800,2265]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "31",
+                                                                        "text": "Settings",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Settings",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[800,1950][1060,2265]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "32",
+                                                                        "text": "SIM Toolkit",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "SIM Toolkit",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[20,2265][280,2400]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "33",
+                                                                        "text": "Slack",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Slack",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[280,2265][540,2400]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "34",
+                                                                        "text": "Spotify",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Spotify",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[540,2265][800,2400]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "35",
+                                                                        "text": "Starbucks IN",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Starbucks IN",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[800,2265][1060,2400]",
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "nodeId": "36",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/all_apps_header",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.LinearLayout",
+                                                                "bounds": "[0,207][1080,705]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "37",
+                                                                        "text": null,
+                                                                        "resourceId": "com.motorola.launcher3:id/all_apps_app_recommendations",
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.LinearLayout",
+                                                                        "bounds": "[30,314][1050,657]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "38",
+                                                                                "text": null,
+                                                                                "resourceId": "com.motorola.launcher3:id/all_apps_app_recommendations_view_pager",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "androidx.viewpager.widget.ViewPager",
+                                                                                "bounds": "[30,314][1050,657]",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "nodeId": "39",
+                                                                                        "text": null,
+                                                                                        "resourceId": null,
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "androidx.recyclerview.widget.RecyclerView",
+                                                                                        "bounds": "[30,314][1050,657]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "40",
+                                                                                                "text": null,
+                                                                                                "resourceId": null,
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.widget.LinearLayout",
+                                                                                                "bounds": "[30,314][1050,657]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "41",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": "com.motorola.launcher3:id/contents",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.LinearLayout",
+                                                                                                        "bounds": "[30,314][1050,657]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "42",
+                                                                                                                "text": "Pocket Automator",
+                                                                                                                "resourceId": "com.motorola.launcher3:id/icon",
+                                                                                                                "contentDescription": "Pocket Automator has 1 notification",
+                                                                                                                "clickable": true,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.TextView",
+                                                                                                                "bounds": "[30,314][285,657]",
+                                                                                                                "children": []
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "nodeId": "43",
+                                                                                                                "text": "Gmail",
+                                                                                                                "resourceId": "com.motorola.launcher3:id/icon",
+                                                                                                                "contentDescription": "Gmail",
+                                                                                                                "clickable": true,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.TextView",
+                                                                                                                "bounds": "[285,314][540,657]",
+                                                                                                                "children": []
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "nodeId": "44",
+                                                                                                                "text": "LinkedIn",
+                                                                                                                "resourceId": "com.motorola.launcher3:id/icon",
+                                                                                                                "contentDescription": "LinkedIn",
+                                                                                                                "clickable": true,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.TextView",
+                                                                                                                "bounds": "[540,314][795,657]",
+                                                                                                                "children": []
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "nodeId": "45",
+                                                                                                                "text": "Chrome",
+                                                                                                                "resourceId": "com.motorola.launcher3:id/icon",
+                                                                                                                "contentDescription": "Chrome",
+                                                                                                                "clickable": true,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.TextView",
+                                                                                                                "bounds": "[795,314][1050,657]",
+                                                                                                                "children": []
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "46",
+                                                                        "text": null,
+                                                                        "resourceId": "com.motorola.launcher3:id/apps_divider_view",
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.view.View",
+                                                                        "bounds": "[31,659][1049,701]",
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "nodeId": "47",
+                                                                "text": "  Search apps",
+                                                                "resourceId": "com.motorola.launcher3:id/search_container_all_apps",
+                                                                "contentDescription": null,
+                                                                "clickable": true,
+                                                                "enabled": true,
+                                                                "className": "android.widget.EditText",
+                                                                "bounds": "[40,154][1040,284]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "48",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/fast_scroller_popup",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.TextView",
+                                                                "bounds": "[844,245][1032,400]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "49",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/all_apps_menu",
+                                                                "contentDescription": "More options",
+                                                                "clickable": true,
+                                                                "enabled": true,
+                                                                "className": "android.widget.TextView",
+                                                                "bounds": "[910,154][1040,284]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "50",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/fast_scroller",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.view.View",
+                                                                "bounds": "[1053,222][1080,2400]",
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "nodeId": "51",
+                                                        "text": null,
+                                                        "resourceId": null,
+                                                        "contentDescription": "Home",
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,94][1080,2340]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "52",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/overview_actions_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.FrameLayout",
+                                                        "bounds": "[0,1868][1080,2400]",
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "click",
+                "resourceId": "com.motorola.launcher3:id/icon",
+                "contentDescription": "Spotify",
+                "text": "Spotify",
+                "path": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    22
+                ],
+                "className": "android.widget.TextView",
+                "value": null,
+                "direction": null
+            },
+            "packageName": "com.motorola.launcher3"
+        },
+        {
+            "timestamp": 7065,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": null,
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.spotify.music:id/action_bar_root",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.LinearLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "android:id/content",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": "com.spotify.music:id/main_content",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.FrameLayout",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "7",
+                                                                "text": null,
+                                                                "resourceId": null,
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "androidx.drawerlayout.widget.DrawerLayout",
+                                                                "bounds": "[0,0][1080,2400]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "8",
+                                                                        "text": null,
+                                                                        "resourceId": "com.spotify.music:id/content",
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.view.ViewGroup",
+                                                                        "bounds": "[0,0][1080,2400]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "9",
+                                                                                "text": null,
+                                                                                "resourceId": "com.spotify.music:id/fragment_overlay_container",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.FrameLayout",
+                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "10",
+                                                                                "text": null,
+                                                                                "resourceId": "com.spotify.music:id/tooltip_container",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.FrameLayout",
+                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "11",
+                                                                                "text": null,
+                                                                                "resourceId": "com.spotify.music:id/coordinator_layout",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.ViewGroup",
+                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "nodeId": "12",
+                                                                                        "text": null,
+                                                                                        "resourceId": "com.spotify.music:id/fragment_container",
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "android.widget.FrameLayout",
+                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "13",
+                                                                                                "text": null,
+                                                                                                "resourceId": null,
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "14",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": "com.spotify.music:id/page_loader_view",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "15",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.spotify.music:id/toast_stub",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.view.ViewGroup",
+                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                "children": []
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "nodeId": "16",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.spotify.music:id/content",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "17",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.spotify.music:id/coordinator_layout",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "18",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.spotify.music:id/app_bar",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.LinearLayout",
+                                                                                                                                "bounds": "[0,0][1080,214]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "19",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.spotify.music:id/filters_container",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.LinearLayout",
+                                                                                                                                        "bounds": "[0,94][1080,214]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "20",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.spotify.music:id/funkis_subfeed_framelayout",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[0,214][1080,2400]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "21",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": null,
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                                        "bounds": "[0,214][1080,2400]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "22",
+                                                                                "text": null,
+                                                                                "resourceId": "com.spotify.music:id/bottom_gradient",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.View",
+                                                                                "bounds": "[0,1939][1080,2340]",
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "23",
+                                                                                "text": null,
+                                                                                "resourceId": "com.spotify.music:id/fragment_container_bottom_overlap_touch_event_consumer",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.View",
+                                                                                "bounds": "[0,2059][1080,2400]",
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "24",
+                                                                                "text": null,
+                                                                                "resourceId": "com.spotify.music:id/now_playing_view_container",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.ViewGroup",
+                                                                                "bounds": "[0,2059][1080,2219]",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "nodeId": "25",
+                                                                                        "text": null,
+                                                                                        "resourceId": null,
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "android.view.View",
+                                                                                        "bounds": "[0,2059][1080,2219]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "26",
+                                                                                                "text": null,
+                                                                                                "resourceId": null,
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "p.ty01",
+                                                                                                "bounds": "[0,2059][1080,2219]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "27",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": null,
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                        "bounds": "[0,2059][1080,2219]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "28",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": null,
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                "bounds": "[0,2059][1080,2219]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "29",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.spotify.music:id/now_playing_bar_layout",
+                                                                                                                        "contentDescription": "Now Playing Bar",
+                                                                                                                        "clickable": true,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                        "bounds": "[20,2059][1060,2199]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "30",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.spotify.music:id/content_container",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.view.ViewGroup",
+                                                                                                                                "bounds": "[20,2059][140,2199]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "31",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.spotify.music:id/cover_image",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": true,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.ImageView",
+                                                                                                                                        "bounds": "[40,2079][140,2179]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "32",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.spotify.music:id/tracks_carousel_view",
+                                                                                                                                "contentDescription": "Currently playing track",
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "androidx.recyclerview.widget.RecyclerView",
+                                                                                                                                "bounds": "[170,2059][710,2199]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "33",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": null,
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": true,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                                        "bounds": "[170,2059][710,2199]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "34",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.spotify.music:id/device_name_label",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.LinearLayout",
+                                                                                                                                "bounds": "[170,2107][710,2152]",
+                                                                                                                                "children": []
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "35",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.spotify.music:id/connect_destination_button",
+                                                                                                                                "contentDescription": "Connect to a device. Opens the devices menu",
+                                                                                                                                "clickable": true,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.ImageButton",
+                                                                                                                                "bounds": "[740,2079][840,2179]",
+                                                                                                                                "children": []
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "36",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.spotify.music:id/add_to_button",
+                                                                                                                                "contentDescription": "Item added",
+                                                                                                                                "clickable": true,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.ImageButton",
+                                                                                                                                "bounds": "[840,2079][940,2179]",
+                                                                                                                                "children": []
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "37",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.spotify.music:id/play_pause_button",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[940,2079][1040,2179]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "38",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.spotify.music:id/nowplaying_elements_playpause_button",
+                                                                                                                                        "contentDescription": "Pause",
+                                                                                                                                        "clickable": true,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.ImageButton",
+                                                                                                                                        "bounds": "[960,2099][1020,2159]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "39",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.spotify.music:id/progress_bar",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.ProgressBar",
+                                                                                                                                "bounds": "[40,2194][1040,2199]",
+                                                                                                                                "children": []
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "40",
+                                                                                "text": null,
+                                                                                "resourceId": "com.spotify.music:id/navigation_bar",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.ViewGroup",
+                                                                                "bounds": "[0,2219][1080,2340]",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "nodeId": "41",
+                                                                                        "text": null,
+                                                                                        "resourceId": null,
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "android.view.View",
+                                                                                        "bounds": "[0,2219][1080,2340]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "42",
+                                                                                                "text": null,
+                                                                                                "resourceId": null,
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": true,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.view.View",
+                                                                                                "bounds": "[0,2219][270,2340]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "43",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": null,
+                                                                                                        "contentDescription": "Home, Tab 1 of 4",
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.view.View",
+                                                                                                        "bounds": "[0,2219][270,2340]",
+                                                                                                        "children": []
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "nodeId": "44",
+                                                                                                "text": null,
+                                                                                                "resourceId": null,
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": true,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.view.View",
+                                                                                                "bounds": "[270,2219][540,2340]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "45",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": null,
+                                                                                                        "contentDescription": "Search, Tab 2 of 4",
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.view.View",
+                                                                                                        "bounds": "[270,2219][540,2340]",
+                                                                                                        "children": []
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "nodeId": "46",
+                                                                                                "text": null,
+                                                                                                "resourceId": null,
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": true,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.view.View",
+                                                                                                "bounds": "[540,2219][810,2340]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "47",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": null,
+                                                                                                        "contentDescription": "Your Library, Tab 3 of 4",
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.view.View",
+                                                                                                        "bounds": "[540,2219][810,2340]",
+                                                                                                        "children": []
+                                                                                                    }
+                                                                                                ]
+                                                                                            },
+                                                                                            {
+                                                                                                "nodeId": "48",
+                                                                                                "text": null,
+                                                                                                "resourceId": null,
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": true,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.view.View",
+                                                                                                "bounds": "[810,2219][1080,2340]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "49",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": null,
+                                                                                                        "contentDescription": "Create, Tab 4 of 4",
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.view.View",
+                                                                                                        "bounds": "[810,2219][1080,2340]",
+                                                                                                        "children": []
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "50",
+                                                                                "text": null,
+                                                                                "resourceId": "com.spotify.music:id/bottom_gradient_black_fade",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.View",
+                                                                                "bounds": "[0,2280][1080,2400]",
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "51",
+                                                                                "text": null,
+                                                                                "resourceId": "com.spotify.music:id/bottom_gradient_window_insets",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.FrameLayout",
+                                                                                "bounds": "[0,2340][1080,2400]",
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "52",
+                                                                                "text": null,
+                                                                                "resourceId": "com.spotify.music:id/navigation_bar_window_insets_space",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.FrameLayout",
+                                                                                "bounds": "[0,2340][1080,2400]",
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "click",
+                "resourceId": "com.spotify.music:id/nowplaying_elements_playpause_button",
+                "contentDescription": "Pause",
+                "text": null,
+                "path": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    5,
+                    0
+                ],
+                "className": "android.widget.ImageButton",
+                "value": null,
+                "direction": null
+            },
+            "packageName": "com.spotify.music"
+        }
+    ]
+}

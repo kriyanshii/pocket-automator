@@ -12,9 +12,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
-import androidx.compose.material3.darkColorScheme
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
@@ -46,7 +44,7 @@ class MainActivity : ComponentActivity() {
         requestNotificationPermissionIfNeeded()
 
         setContent {
-            MaterialTheme(colorScheme = darkColorScheme()) {
+            PocketAutomatorTheme {
                 Surface(modifier = Modifier.fillMaxSize()) {
                     val service = PocketAutomatorService.instance
                     val recorder = service?.recorder
@@ -66,6 +64,8 @@ class MainActivity : ComponentActivity() {
                     } else {
                         RecordingsScreen(
                             recordingRepository = PocketAutomatorApp.instance.recordingRepository,
+                            skillRepository = PocketAutomatorApp.instance.skillRepository,
+                            trajectoryLoader = PocketAutomatorApp.instance.trajectoryLoader,
                             isAccessibilityEnabled = { isAccessibilityServiceEnabled() },
                             isServiceRunning = { PocketAutomatorService.isRunning() },
                             isRecording = { PocketAutomatorService.instance?.isRecording() == true },
@@ -103,6 +103,9 @@ class MainActivity : ComponentActivity() {
                                         Toast.makeText(this@MainActivity, "Replaying: ${recording.task}", Toast.LENGTH_SHORT).show()
                                     }
                                 }
+                            },
+                            onSkillReplay = { recording ->
+                                PocketAutomatorService.instance?.replayRecording(recording)
                             },
                             onExport = { id ->
                                 scope.launch {

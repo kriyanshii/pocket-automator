@@ -1,0 +1,1228 @@
+{
+    "task": "search and uber for pratishtha apartment unnamed road",
+    "app": "com.ubercab",
+    "steps": [
+        {
+            "timestamp": 3416,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": "android:id/content",
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.motorola.launcher3:id/launcher",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.FrameLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "com.motorola.launcher3:id/drag_layer",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/background_scrim",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "7",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/scrim_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "8",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/apps_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.RelativeLayout",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "9",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/search_results_list_view",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.GridView",
+                                                                "bounds": "[0,207][1080,921]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "10",
+                                                                        "text": "Uber",
+                                                                        "resourceId": "com.motorola.launcher3:id/icon",
+                                                                        "contentDescription": "Uber",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[20,282][280,597]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "11",
+                                                                        "text": null,
+                                                                        "resourceId": "com.motorola.launcher3:id/private_space_divider",
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.ImageView",
+                                                                        "bounds": "[20,597][1060,760]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "12",
+                                                                        "text": "SEARCH FOR MORE APPS",
+                                                                        "resourceId": "com.motorola.launcher3:id/search_market_text",
+                                                                        "contentDescription": null,
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[20,760][1060,861]",
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "nodeId": "13",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/all_apps_header",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.LinearLayout",
+                                                                "bounds": "[0,207][1080,705]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "14",
+                                                                "text": "Uber",
+                                                                "resourceId": "com.motorola.launcher3:id/search_container_all_apps",
+                                                                "contentDescription": null,
+                                                                "clickable": true,
+                                                                "enabled": true,
+                                                                "className": "android.widget.EditText",
+                                                                "bounds": "[40,154][1040,284]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "15",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/fast_scroller_popup",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.TextView",
+                                                                "bounds": "[844,245][1032,400]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "16",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.launcher3:id/clear",
+                                                                "contentDescription": "Clear all the input",
+                                                                "clickable": true,
+                                                                "enabled": true,
+                                                                "className": "android.widget.ImageView",
+                                                                "bounds": "[910,154][1040,284]",
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "nodeId": "17",
+                                                        "text": null,
+                                                        "resourceId": null,
+                                                        "contentDescription": "Home",
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,94][1080,2340]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "18",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/overview_actions_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.FrameLayout",
+                                                        "bounds": "[0,1868][1080,2400]",
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "set_text",
+                "resourceId": "com.motorola.launcher3:id/search_container_all_apps",
+                "contentDescription": null,
+                "text": null,
+                "path": null,
+                "className": "android.widget.EditText",
+                "value": "Uber",
+                "direction": null
+            },
+            "packageName": "com.motorola.launcher3"
+        },
+        {
+            "timestamp": 11203,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": null,
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.ubercab:id/action_bar_root",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.LinearLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "android:id/content",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": null,
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.ViewGroup",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "7",
+                                                                "text": null,
+                                                                "resourceId": null,
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.view.ViewGroup",
+                                                                "bounds": "[0,0][1080,2400]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "8",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.view.ViewGroup",
+                                                                        "bounds": "[0,0][1080,2400]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "9",
+                                                                                "text": null,
+                                                                                "resourceId": "com.ubercab:id/root_content",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.ViewGroup",
+                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "nodeId": "10",
+                                                                                        "text": null,
+                                                                                        "resourceId": "com.ubercab:id/ub__content_id",
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "android.view.ViewGroup",
+                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "11",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.ubercab:id/content_frame",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.view.ViewGroup",
+                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "nodeId": "12",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.ubercab:id/modal_frame",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "nodeId": "13",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.ubercab:id/ub__content_id",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.view.ViewGroup",
+                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "14",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": "com.ubercab:id/drawer",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "androidx.drawerlayout.widget.DrawerLayout",
+                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "15",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.ubercab:id/modal_frame",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                "children": []
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "nodeId": "16",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.ubercab:id/content_frame",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.view.ViewGroup",
+                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "17",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": null,
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "18",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": null,
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.view.ViewGroup",
+                                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "19",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.ubercab:id/ub__map_search_pin_frame",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "20",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.ubercab:id/location_editor_bottom_sheet_view",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": true,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.LinearLayout",
+                                                                                                                                "bounds": "[0,88][1080,2400]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "21",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": null,
+                                                                                                                                        "contentDescription": "Sheet height controller",
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                                        "bounds": "[0,88][1080,128]",
+                                                                                                                                        "children": []
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "22",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": null,
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                                        "bounds": "[0,128][1080,2400]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "23",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.ubercab:id/ub__map",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "24",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.ubercab:id/annotations",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.view.ViewGroup",
+                                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                                "children": []
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "25",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.ubercab:id/map",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "26",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": null,
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "click",
+                "resourceId": "com.ubercab:id/ub__location_edit_search_container_destination",
+                "contentDescription": null,
+                "text": null,
+                "path": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    1,
+                    1,
+                    1,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    1,
+                    2
+                ],
+                "className": "android.widget.FrameLayout",
+                "value": null,
+                "direction": null
+            },
+            "packageName": "com.ubercab"
+        },
+        {
+            "timestamp": 19663,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": null,
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.ubercab:id/action_bar_root",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.LinearLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "android:id/content",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": null,
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.ViewGroup",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "7",
+                                                                "text": null,
+                                                                "resourceId": null,
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.view.ViewGroup",
+                                                                "bounds": "[0,0][1080,2400]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "8",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.view.ViewGroup",
+                                                                        "bounds": "[0,0][1080,2400]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "9",
+                                                                                "text": null,
+                                                                                "resourceId": "com.ubercab:id/root_content",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.ViewGroup",
+                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "nodeId": "10",
+                                                                                        "text": null,
+                                                                                        "resourceId": "com.ubercab:id/ub__content_id",
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "android.view.ViewGroup",
+                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "11",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.ubercab:id/content_frame",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.view.ViewGroup",
+                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "nodeId": "12",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.ubercab:id/modal_frame",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "nodeId": "13",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.ubercab:id/ub__content_id",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.view.ViewGroup",
+                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "14",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": "com.ubercab:id/drawer",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "androidx.drawerlayout.widget.DrawerLayout",
+                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "15",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.ubercab:id/modal_frame",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                "children": []
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "nodeId": "16",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.ubercab:id/content_frame",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.view.ViewGroup",
+                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "17",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": null,
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "18",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": null,
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.view.ViewGroup",
+                                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "19",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.ubercab:id/ub__map_search_pin_frame",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "20",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.ubercab:id/location_editor_bottom_sheet_view",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": true,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.LinearLayout",
+                                                                                                                                "bounds": "[0,88][1080,2400]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "21",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": null,
+                                                                                                                                        "contentDescription": "Sheet height controller",
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                                        "bounds": "[0,88][1080,128]",
+                                                                                                                                        "children": []
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "22",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": null,
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                                        "bounds": "[0,128][1080,2400]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "23",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.ubercab:id/ub__map",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "24",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.ubercab:id/annotations",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.view.ViewGroup",
+                                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                                "children": []
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "25",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.ubercab:id/map",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "26",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": null,
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "set_text",
+                "resourceId": "com.ubercab:id/edit_text",
+                "contentDescription": null,
+                "text": null,
+                "path": null,
+                "className": "android.widget.EditText",
+                "value": "pratishtha apartment unnamed road",
+                "direction": null
+            },
+            "packageName": "com.ubercab"
+        },
+        {
+            "timestamp": 22224,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": null,
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.ubercab:id/action_bar_root",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.LinearLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "android:id/content",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": null,
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.ViewGroup",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "7",
+                                                                "text": null,
+                                                                "resourceId": null,
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.view.ViewGroup",
+                                                                "bounds": "[0,0][1080,2400]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "8",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.view.ViewGroup",
+                                                                        "bounds": "[0,0][1080,2400]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "9",
+                                                                                "text": null,
+                                                                                "resourceId": "com.ubercab:id/root_content",
+                                                                                "contentDescription": null,
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.ViewGroup",
+                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "nodeId": "10",
+                                                                                        "text": null,
+                                                                                        "resourceId": "com.ubercab:id/ub__content_id",
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "android.view.ViewGroup",
+                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "11",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.ubercab:id/content_frame",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.view.ViewGroup",
+                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "nodeId": "12",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.ubercab:id/modal_frame",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                "children": []
+                                                                                            },
+                                                                                            {
+                                                                                                "nodeId": "13",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.ubercab:id/ub__content_id",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.view.ViewGroup",
+                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "14",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": "com.ubercab:id/drawer",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "androidx.drawerlayout.widget.DrawerLayout",
+                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "15",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.ubercab:id/modal_frame",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                "children": []
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "nodeId": "16",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.ubercab:id/content_frame",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.view.ViewGroup",
+                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "17",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": null,
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "18",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": null,
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.view.ViewGroup",
+                                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "19",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.ubercab:id/ub__map_search_pin_frame",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "20",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.ubercab:id/location_editor_bottom_sheet_view",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": true,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.LinearLayout",
+                                                                                                                                "bounds": "[0,88][1080,2400]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "21",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": null,
+                                                                                                                                        "contentDescription": "Sheet height controller",
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                                        "bounds": "[0,88][1080,128]",
+                                                                                                                                        "children": []
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "22",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": null,
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                                        "bounds": "[0,128][1080,2400]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "23",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": "com.ubercab:id/ub__map",
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.view.ViewGroup",
+                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "24",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.ubercab:id/annotations",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.view.ViewGroup",
+                                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                                "children": []
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                                "nodeId": "25",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": "com.ubercab:id/map",
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[0,0][1080,2400]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "26",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": null,
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                                        "bounds": "[0,0][1080,2400]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "click",
+                "resourceId": null,
+                "contentDescription": "Pratistha apartment, Unnamed Road, Paldi, Ahmedabad, Gujarat, India",
+                "text": null,
+                "path": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    1,
+                    1,
+                    1,
+                    2,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "className": "android.widget.Button",
+                "value": null,
+                "direction": null
+            },
+            "packageName": "com.ubercab"
+        }
+    ]
+}

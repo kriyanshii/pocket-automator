@@ -1,0 +1,36 @@
+{
+  "task": "send whatsapp message",
+  "app": "com.whatsapp",
+  "steps": [
+    {
+      "timestamp": 0,
+      "screen": { "nodeId": "1" },
+      "action": {
+        "type": "set_text",
+        "resourceId": "com.whatsapp:id/search_input",
+        "value": "contact"
+      },
+      "packageName": "com.whatsapp"
+    },
+    {
+      "timestamp": 1,
+      "screen": { "nodeId": "2" },
+      "action": {
+        "type": "click",
+        "resourceId": "com.whatsapp:id/contact_row_container",
+        "text": "contact"
+      },
+      "packageName": "com.whatsapp"
+    },
+    {
+      "timestamp": 2,
+      "screen": { "nodeId": "3" },
+      "action": {
+        "type": "set_text",
+        "resourceId": "com.whatsapp:id/entry",
+        "value": "Hello"
+      },
+      "packageName": "com.whatsapp"
+    }
+  ]
+}

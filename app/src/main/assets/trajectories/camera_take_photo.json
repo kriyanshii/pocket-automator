@@ -1,0 +1,1069 @@
+{
+    "task": "open camera and click a picture",
+    "app": "com.motorola.camera5",
+    "steps": [
+        {
+            "timestamp": 3084,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": "android:id/content",
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.motorola.launcher3:id/launcher",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.FrameLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "com.motorola.launcher3:id/drag_layer",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "6",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/background_scrim",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "7",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/scrim_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "8",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/workspace",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.ScrollView",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "9",
+                                                                "text": null,
+                                                                "resourceId": null,
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.view.ViewGroup",
+                                                                "bounds": "[0,94][1080,2100]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "10",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.view.ViewGroup",
+                                                                        "bounds": "[28,137][1052,2057]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "11",
+                                                                                "text": null,
+                                                                                "resourceId": null,
+                                                                                "contentDescription": "Gmail",
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "com.android.launcher3.widget.LauncherAppWidgetHostView",
+                                                                                "bounds": "[28,137][1052,1096]",
+                                                                                "children": [
+                                                                                    {
+                                                                                        "nodeId": "12",
+                                                                                        "text": null,
+                                                                                        "resourceId": "android:id/background",
+                                                                                        "contentDescription": null,
+                                                                                        "clickable": false,
+                                                                                        "enabled": true,
+                                                                                        "className": "android.widget.FrameLayout",
+                                                                                        "bounds": "[54,168][1026,1077]",
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "nodeId": "13",
+                                                                                                "text": null,
+                                                                                                "resourceId": "com.google.android.gm:id/widget_container",
+                                                                                                "contentDescription": null,
+                                                                                                "clickable": false,
+                                                                                                "enabled": true,
+                                                                                                "className": "android.widget.LinearLayout",
+                                                                                                "bounds": "[53,166][1027,1077]",
+                                                                                                "children": [
+                                                                                                    {
+                                                                                                        "nodeId": "14",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": "com.google.android.gm:id/widget_header",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": true,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.LinearLayout",
+                                                                                                        "bounds": "[82,166][998,302]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "15",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.google.android.gm:id/widget_header_icon",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.ImageView",
+                                                                                                                "bounds": "[82,205][141,263]",
+                                                                                                                "children": []
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "nodeId": "16",
+                                                                                                                "text": "Primary (85)",
+                                                                                                                "resourceId": "com.google.android.gm:id/widget_folder",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.TextView",
+                                                                                                                "bounds": "[168,208][871,260]",
+                                                                                                                "children": []
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "nodeId": "17",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.google.android.gm:id/widget_compose",
+                                                                                                                "contentDescription": "Compose",
+                                                                                                                "clickable": true,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                "bounds": "[871,176][998,293]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "18",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": null,
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.widget.FrameLayout",
+                                                                                                                        "bounds": "[871,195][998,273]",
+                                                                                                                        "children": []
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "nodeId": "19",
+                                                                                                        "text": null,
+                                                                                                        "resourceId": "com.google.android.gm:id/viewgroup_content",
+                                                                                                        "contentDescription": null,
+                                                                                                        "clickable": false,
+                                                                                                        "enabled": true,
+                                                                                                        "className": "android.widget.LinearLayout",
+                                                                                                        "bounds": "[82,302][998,1077]",
+                                                                                                        "children": [
+                                                                                                            {
+                                                                                                                "nodeId": "20",
+                                                                                                                "text": null,
+                                                                                                                "resourceId": "com.google.android.gm:id/conversation_list",
+                                                                                                                "contentDescription": null,
+                                                                                                                "clickable": false,
+                                                                                                                "enabled": true,
+                                                                                                                "className": "android.widget.ListView",
+                                                                                                                "bounds": "[82,302][998,1077]",
+                                                                                                                "children": [
+                                                                                                                    {
+                                                                                                                        "nodeId": "21",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": null,
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.appwidget.AppWidgetHostView",
+                                                                                                                        "bounds": "[82,302][998,441]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "22",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": null,
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[82,302][998,441]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "23",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.gm:id/widget_list_item",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.LinearLayout",
+                                                                                                                                        "bounds": "[82,302][998,441]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "24",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": null,
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.appwidget.AppWidgetHostView",
+                                                                                                                        "bounds": "[82,450][998,567]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "25",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": null,
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[82,450][998,567]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "26",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.gm:id/widget_list_item",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.LinearLayout",
+                                                                                                                                        "bounds": "[82,450][998,567]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "27",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": null,
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.appwidget.AppWidgetHostView",
+                                                                                                                        "bounds": "[82,577][998,715]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "28",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": null,
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[83,578][997,716]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "29",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.gm:id/widget_list_item",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.LinearLayout",
+                                                                                                                                        "bounds": "[83,578][997,716]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "30",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": null,
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.appwidget.AppWidgetHostView",
+                                                                                                                        "bounds": "[83,726][997,864]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "31",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": null,
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[83,726][997,864]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "32",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.gm:id/widget_list_item",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.LinearLayout",
+                                                                                                                                        "bounds": "[83,726][997,864]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "33",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": null,
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.appwidget.AppWidgetHostView",
+                                                                                                                        "bounds": "[83,873][997,1011]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "34",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": null,
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[83,874][997,1012]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "35",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.gm:id/widget_list_item",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.LinearLayout",
+                                                                                                                                        "bounds": "[83,874][997,1012]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                        "nodeId": "36",
+                                                                                                                        "text": null,
+                                                                                                                        "resourceId": null,
+                                                                                                                        "contentDescription": null,
+                                                                                                                        "clickable": false,
+                                                                                                                        "enabled": true,
+                                                                                                                        "className": "android.appwidget.AppWidgetHostView",
+                                                                                                                        "bounds": "[83,1021][997,1077]",
+                                                                                                                        "children": [
+                                                                                                                            {
+                                                                                                                                "nodeId": "37",
+                                                                                                                                "text": null,
+                                                                                                                                "resourceId": null,
+                                                                                                                                "contentDescription": null,
+                                                                                                                                "clickable": false,
+                                                                                                                                "enabled": true,
+                                                                                                                                "className": "android.widget.FrameLayout",
+                                                                                                                                "bounds": "[83,1021][997,1077]",
+                                                                                                                                "children": [
+                                                                                                                                    {
+                                                                                                                                        "nodeId": "38",
+                                                                                                                                        "text": null,
+                                                                                                                                        "resourceId": "com.google.android.gm:id/widget_list_item",
+                                                                                                                                        "contentDescription": null,
+                                                                                                                                        "clickable": false,
+                                                                                                                                        "enabled": true,
+                                                                                                                                        "className": "android.widget.LinearLayout",
+                                                                                                                                        "bounds": "[84,1021][996,1077]",
+                                                                                                                                        "children": []
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "39",
+                                                                                "text": "Clock",
+                                                                                "resourceId": null,
+                                                                                "contentDescription": "Clock",
+                                                                                "clickable": true,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.TextView",
+                                                                                "bounds": "[287,1096][540,1413]",
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "40",
+                                                                                "text": "Camera",
+                                                                                "resourceId": null,
+                                                                                "contentDescription": "Camera",
+                                                                                "clickable": true,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.TextView",
+                                                                                "bounds": "[540,1096][793,1413]",
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "nodeId": "41",
+                                                                                "text": "Slack",
+                                                                                "resourceId": null,
+                                                                                "contentDescription": "Slack",
+                                                                                "clickable": true,
+                                                                                "enabled": true,
+                                                                                "className": "android.widget.TextView",
+                                                                                "bounds": "[287,1413][540,1729]",
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "nodeId": "42",
+                                                        "text": null,
+                                                        "resourceId": null,
+                                                        "contentDescription": "Home",
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,94][1080,2340]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "43",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/overview_actions_view",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.FrameLayout",
+                                                        "bounds": "[0,1868][1080,2400]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "44",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/page_indicator",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,2073][1080,2113]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "45",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.launcher3:id/hotseat",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.ViewGroup",
+                                                        "bounds": "[14,2089][1066,2320]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "46",
+                                                                "text": null,
+                                                                "resourceId": null,
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.view.ViewGroup",
+                                                                "bounds": "[24,2106][1056,2282]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "47",
+                                                                        "text": "Phone",
+                                                                        "resourceId": null,
+                                                                        "contentDescription": "Phone",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[24,2106][367,2282]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "48",
+                                                                        "text": "Messages",
+                                                                        "resourceId": null,
+                                                                        "contentDescription": "Messages",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[367,2106][711,2282]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "49",
+                                                                        "text": "Camera",
+                                                                        "resourceId": null,
+                                                                        "contentDescription": "Camera",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.TextView",
+                                                                        "bounds": "[711,2106][1054,2282]",
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "nodeId": "50",
+                                                "text": null,
+                                                "resourceId": null,
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.FrameLayout",
+                                                "bounds": "[87,264][1060,2400]",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "click",
+                "resourceId": null,
+                "contentDescription": "Camera",
+                "text": "Camera",
+                "path": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    6,
+                    0,
+                    2
+                ],
+                "className": "android.widget.TextView",
+                "value": null,
+                "direction": null
+            },
+            "packageName": "com.motorola.launcher3"
+        },
+        {
+            "timestamp": 6258,
+            "screen": {
+                "nodeId": "1",
+                "text": null,
+                "resourceId": null,
+                "contentDescription": null,
+                "clickable": false,
+                "enabled": true,
+                "className": "android.widget.FrameLayout",
+                "bounds": "[0,0][1080,2400]",
+                "children": [
+                    {
+                        "nodeId": "2",
+                        "text": null,
+                        "resourceId": null,
+                        "contentDescription": null,
+                        "clickable": false,
+                        "enabled": true,
+                        "className": "android.widget.LinearLayout",
+                        "bounds": "[0,0][1080,2400]",
+                        "children": [
+                            {
+                                "nodeId": "3",
+                                "text": null,
+                                "resourceId": "android:id/content",
+                                "contentDescription": null,
+                                "clickable": false,
+                                "enabled": true,
+                                "className": "android.widget.FrameLayout",
+                                "bounds": "[0,0][1080,2400]",
+                                "children": [
+                                    {
+                                        "nodeId": "4",
+                                        "text": null,
+                                        "resourceId": "com.motorola.camera5:id/main",
+                                        "contentDescription": null,
+                                        "clickable": false,
+                                        "enabled": true,
+                                        "className": "android.widget.RelativeLayout",
+                                        "bounds": "[0,0][1080,2400]",
+                                        "children": [
+                                            {
+                                                "nodeId": "5",
+                                                "text": null,
+                                                "resourceId": "com.motorola.camera5:id/preview_surface",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.view.SurfaceView",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": []
+                                            },
+                                            {
+                                                "nodeId": "6",
+                                                "text": null,
+                                                "resourceId": "com.motorola.camera5:id/compose_root",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "androidx.compose.ui.platform.ComposeView",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "7",
+                                                        "text": null,
+                                                        "resourceId": null,
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.View",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "8",
+                                                                "text": null,
+                                                                "resourceId": null,
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.view.View",
+                                                                "bounds": "[42,131][1038,257]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "9",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": null,
+                                                                        "clickable": true,
+                                                                        "enabled": false,
+                                                                        "className": "android.view.View",
+                                                                        "bounds": "[42,131][168,257]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "10",
+                                                                                "text": null,
+                                                                                "resourceId": null,
+                                                                                "contentDescription": "Google Lens true",
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.View",
+                                                                                "bounds": "[74,163][137,226]",
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "11",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": null,
+                                                                        "clickable": true,
+                                                                        "enabled": false,
+                                                                        "className": "android.view.View",
+                                                                        "bounds": "[216,131][342,257]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "12",
+                                                                                "text": null,
+                                                                                "resourceId": null,
+                                                                                "contentDescription": "Flash Off",
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.View",
+                                                                                "bounds": "[248,163][311,226]",
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "13",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": null,
+                                                                        "clickable": true,
+                                                                        "enabled": false,
+                                                                        "className": "android.view.View",
+                                                                        "bounds": "[390,131][516,257]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "14",
+                                                                                "text": null,
+                                                                                "resourceId": null,
+                                                                                "contentDescription": "Choose your image style Natural",
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.View",
+                                                                                "bounds": "[422,163][485,226]",
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "15",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": null,
+                                                                        "clickable": true,
+                                                                        "enabled": false,
+                                                                        "className": "android.view.View",
+                                                                        "bounds": "[564,131][690,257]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "16",
+                                                                                "text": null,
+                                                                                "resourceId": null,
+                                                                                "contentDescription": "Aspect ratio 3 4",
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.View",
+                                                                                "bounds": "[596,163][659,226]",
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "17",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": null,
+                                                                        "clickable": true,
+                                                                        "enabled": false,
+                                                                        "className": "android.view.View",
+                                                                        "bounds": "[738,131][864,257]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "18",
+                                                                                "text": null,
+                                                                                "resourceId": null,
+                                                                                "contentDescription": "Timer Off",
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.View",
+                                                                                "bounds": "[770,163][833,226]",
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "19",
+                                                                        "text": null,
+                                                                        "resourceId": null,
+                                                                        "contentDescription": null,
+                                                                        "clickable": true,
+                                                                        "enabled": false,
+                                                                        "className": "android.view.View",
+                                                                        "bounds": "[912,131][1038,257]",
+                                                                        "children": [
+                                                                            {
+                                                                                "nodeId": "20",
+                                                                                "text": null,
+                                                                                "resourceId": null,
+                                                                                "contentDescription": "Settings true",
+                                                                                "clickable": false,
+                                                                                "enabled": true,
+                                                                                "className": "android.view.View",
+                                                                                "bounds": "[944,163][1007,226]",
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "nodeId": "21",
+                                                "text": null,
+                                                "resourceId": "com.motorola.camera5:id/controls",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.widget.RelativeLayout",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "22",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.camera5:id/controls",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.widget.RelativeLayout",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "nodeId": "23",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.camera5:id/controls_2020_layout",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.ViewGroup",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "24",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.camera5:id/control_panel_touch_observable",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.view.ViewGroup",
+                                                                "bounds": "[0,0][1080,2400]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "25",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.camera5:id/indicator_bar",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.view.ViewGroup",
+                                                                "bounds": "[0,131][1080,404]",
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "nodeId": "26",
+                                                                "text": null,
+                                                                "resourceId": null,
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.view.ViewGroup",
+                                                                "bounds": "[0,1329][1080,1739]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "27",
+                                                                        "text": null,
+                                                                        "resourceId": "com.motorola.camera5:id/toggle_bar_button",
+                                                                        "contentDescription": "Choose filters",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.ImageButton",
+                                                                        "bounds": "[912,1587][1038,1713]",
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "nodeId": "28",
+                                                        "text": null,
+                                                        "resourceId": null,
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.ViewGroup",
+                                                        "bounds": "[0,0][1080,2400]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "29",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.camera5:id/timer_text",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.TextView",
+                                                                "bounds": "[356,1016][724,1384]",
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "nodeId": "30",
+                                                "text": null,
+                                                "resourceId": "com.motorola.camera5:id/stage1_layout",
+                                                "contentDescription": null,
+                                                "clickable": false,
+                                                "enabled": true,
+                                                "className": "android.view.ViewGroup",
+                                                "bounds": "[0,0][1080,2400]",
+                                                "children": [
+                                                    {
+                                                        "nodeId": "31",
+                                                        "text": null,
+                                                        "resourceId": "com.motorola.camera5:id/capture_bar_layout",
+                                                        "contentDescription": null,
+                                                        "clickable": false,
+                                                        "enabled": true,
+                                                        "className": "android.view.ViewGroup",
+                                                        "bounds": "[0,1956][1080,2195]",
+                                                        "children": [
+                                                            {
+                                                                "nodeId": "32",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.camera5:id/camera_gallery",
+                                                                "contentDescription": null,
+                                                                "clickable": true,
+                                                                "enabled": true,
+                                                                "className": "android.widget.FrameLayout",
+                                                                "bounds": "[133,2013][259,2139]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "33",
+                                                                        "text": null,
+                                                                        "resourceId": "com.motorola.camera5:id/capture_bar_gallery",
+                                                                        "contentDescription": "Go to Gallery",
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.ImageButton",
+                                                                        "bounds": "[133,2013][259,2139]",
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "nodeId": "34",
+                                                                        "text": null,
+                                                                        "resourceId": "com.motorola.camera5:id/capture_bar_gallery_video_indication",
+                                                                        "contentDescription": null,
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.ImageView",
+                                                                        "bounds": "[164,2044][227,2107]",
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "nodeId": "35",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.camera5:id/capture_bar_shutter_layout",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.view.ViewGroup",
+                                                                "bounds": "[421,1956][660,2195]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "36",
+                                                                        "text": "PHOTO",
+                                                                        "resourceId": "com.motorola.camera5:id/capture_bar_shutter_button",
+                                                                        "contentDescription": "Capture",
+                                                                        "clickable": true,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.ImageView",
+                                                                        "bounds": "[421,1956][660,2195]",
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "nodeId": "37",
+                                                                "text": null,
+                                                                "resourceId": "com.motorola.camera5:id/camera_switch",
+                                                                "contentDescription": null,
+                                                                "clickable": false,
+                                                                "enabled": true,
+                                                                "className": "android.widget.FrameLayout",
+                                                                "bounds": "[821,2013][947,2139]",
+                                                                "children": [
+                                                                    {
+                                                                        "nodeId": "38",
+                                                                        "text": null,
+                                                                        "resourceId": "com.motorola.camera5:id/capture_bar_camera_switch",
+                                                                        "contentDescription": "Switch to Selfie camera",
+                                                                        "clickable": false,
+                                                                        "enabled": true,
+                                                                        "className": "android.widget.ImageButton",
+                                                                        "bounds": "[821,2013][947,2139]",
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "action": {
+                "type": "click",
+                "resourceId": "com.motorola.camera5:id/capture_bar_shutter_button",
+                "contentDescription": "Capture",
+                "text": "PHOTO",
+                "path": [
+                    0,
+                    0,
+                    0,
+                    3,
+                    0,
+                    1,
+                    0
+                ],
+                "className": "android.widget.ImageView",
+                "value": null,
+                "direction": null
+            },
+            "packageName": "com.motorola.camera5"
+        }
+    ]
+}

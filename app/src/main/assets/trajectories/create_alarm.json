@@ -1,0 +1,24 @@
+{
+  "task": "create alarm",
+  "app": "com.google.android.deskclock",
+  "steps": [
+    {
+      "timestamp": 0,
+      "screen": { "nodeId": "1" },
+      "action": {
+        "type": "click",
+        "contentDescription": "Alarm"
+      },
+      "packageName": "com.google.android.deskclock"
+    },
+    {
+      "timestamp": 1,
+      "screen": { "nodeId": "2" },
+      "action": {
+        "type": "click",
+        "contentDescription": "Add alarm"
+      },
+      "packageName": "com.google.android.deskclock"
+    }
+  ]
+}

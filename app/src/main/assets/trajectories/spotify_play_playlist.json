@@ -1,0 +1,25 @@
+{
+  "task": "play my workout playlist",
+  "app": "com.spotify.music",
+  "steps": [
+    {
+      "timestamp": 0,
+      "screen": { "nodeId": "1" },
+      "action": {
+        "type": "set_text",
+        "resourceId": "com.spotify.music:id/query",
+        "value": "workout playlist"
+      },
+      "packageName": "com.spotify.music"
+    },
+    {
+      "timestamp": 1,
+      "screen": { "nodeId": "2" },
+      "action": {
+        "type": "click",
+        "text": "Workout Mix"
+      },
+      "packageName": "com.spotify.music"
+    }
+  ]
+}
