@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pocket Automator</string>
+    <string name="accessibility_service_description">Records and replays user interactions using accessibility trees for app automation training.</string>
+    <string name="notification_channel_name">Recording</string>
+    <string name="notification_recording_title">Recording in progress</string>
+    <string name="notification_recording_text">Pocket Automator is capturing interactions</string>
+    <string name="notification_stop_action">Stop</string>
+</resources>
